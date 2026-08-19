@@ -1,340 +1,215 @@
-<!-- ========================================================= --><!--                         HEADER                            --><!-- ========================================================= --><h1 align="center">
+<!-- HEADER -->
+
+<h1 align="center">
   👋 Hi, I'm Vikas V Menasagi
-</h1><h3 align="center">
-  🎓 Electronics & Communication Engineering Undergraduate
-</h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=VLSI+%26+CMOS+Design+Enthusiast+%F0%9F%94%AC;Embedded+Systems+Enthusiast+%E2%9A%A1;Digital+%26+Analog+Electronics+%F0%9F%92%A1;C+%7C+C%2B%2B+%7C+Java+%7C+Verilog;Designing+%7C+Building+%7C+Verifying+%F0%9F%9A%80" alt="Typing SVG" />
-</p><p align="center">
+</h1>
+
+<h3 align="center">
+  🎓 Electronics & Communication Engineering Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Embedded+Systems+Enthusiast+%E2%9A%A1;Electronics+Enthusiast+%F0%9F%94%8C;Digital+%26+Analog+Electronics+%F0%9F%92%A1;C+%7C+C%2B%2B+%7C+Embedded+C;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vikasmenasagi01">
+    <img src="https://img.shields.io/badge/GitHub-Vikas%20V%20Menasagi-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
   <a href="https://www.linkedin.com/in/vikas-menasagi-4ba074293">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20V%20Menasagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20V%20Menasagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:vikasmenasagi01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vikasmenasagi01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>---
-
-🌟 About Me
-
-🎓 Electronics & Communication Engineering undergraduate at
-🏫 Basaveshwar Engineering College, Bagalkot
-
-🔬 Interested in VLSI, CMOS Design, Embedded Systems, Digital Electronics and Hardware–Software Integration.
-
-💻 I work with C, C++, Java, Embedded C and Verilog HDL, with practical exposure to data structures and algorithmic problem solving.
-
-⚡ I enjoy building practical systems using Arduino, sensors, Bluetooth communication, PWM and motor-control interfaces.
-
-🧪 My VLSI exposure includes transistor-level CMOS design, full-custom layout, DRC and LVS verification using Cadence Virtuoso and Calibre.
-
-🚀 I enjoy learning through designing, building, testing and improving real engineering systems.
+</p>
 
 ---
 
-🧰 Tech Stack
+## 🌟 About Me
 
-💻 Programming & HDL
+🎓 Final-year **B.E. Electronics & Communication Engineering** student at  
+🏫 **Basaveshwara Engineering College, Bagalkot**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
-  <img src="https://img.shields.io/badge/Embedded%20C-283593?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog%20HDL-8E24AA?style=for-the-badge" />
-</p>🔬 VLSI & Electronics
+🔌 Interested in **Embedded Systems, Microcontrollers and Electronics**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VLSI%20Design-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CMOS%20Design-7B1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-B71C1C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Calibre%20DRC%20%2F%20LVS-424242?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital%20Electronics-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analog%20Electronics-00838F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MOSFET-C62828?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BJT-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Op--Amp-6A1B9A?style=for-the-badge" />
-</p>⚡ Embedded Systems & Hardware
+💻 I enjoy working with **C, C++, Embedded C and Arduino Uno**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/HC--05%20Bluetooth-0082FC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/L293D%20Motor%20Driver-455A64?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sensor%20Interfacing-00838F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PWM%20Control-6A1B9A?style=for-the-badge" />
-</p>🔧 Development & Engineering Tools
+⚡ Familiar with **ARM Microcontrollers and communication protocols such as UART, SPI and I2C**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github" />
-  <img src="https://img.shields.io/badge/Keil%20µVision-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>---
+🌐 Familiar with **Computer Networking fundamentals and TCP/IP basics**.
 
-🚀 Featured Projects
-
-<table>
-<tr><td width="50%" valign="top"><h3 align="center">🔬 CMOS Circuit Design & Verification</h3><p align="center">
-  <img src="./assets/cmos-inverter-drc-lvs.jpg" width="260" alt="CMOS Inverter Design and LVS Verification" />
-</p><p align="center">
-  <b>Cadence Virtuoso · CMOS · DRC · LVS</b>
-</p><p>
-Designed transistor-level CMOS circuits and developed full-custom layouts using <b>Cadence Virtuoso</b>.
-</p><p>
-Worked with:
-</p><p align="center">
-  <code>Inverter</code>
-  <code>NAND</code>
-  <code>NOR</code>
-  <code>4-Bit Adder</code>
-  <code>8:1 MUX</code>
-</p><p>
-Performed physical verification using <b>Calibre DRC and LVS</b>.
-</p><p align="center">
-  <code>CMOS Design</code>
-  <code>Layout</code>
-  <code>DRC</code>
-  <code>LVS</code>
-</p></td><td width="50%" valign="top"><h3 align="center">♿ App-Controlled Smart Wheelchair</h3><p align="center">
-  <img src="./assets/app-controlled-wheelchair.jpg" width="260" alt="App Controlled Smart Wheelchair" />
-</p><p align="center">
-  <b>Arduino Uno · HC-05 · L293D · Embedded C</b>
-</p><p>
-Developed a Bluetooth-controlled wheelchair prototype using <b>Arduino Uno</b>, <b>HC-05 Bluetooth Module</b> and <b>L293D Motor Driver</b>.
-</p><p>
-Implemented control commands for:
-</p><p align="center">
-  <code>Forward</code>
-  <code>Reverse</code>
-  <code>Left</code>
-  <code>Right</code>
-  <code>Stop</code>
-</p><p align="center">
-  <code>Bluetooth</code>
-  <code>Motor Control</code>
-  <code>Embedded Systems</code>
-</p></td></tr><tr><td width="50%" valign="top"><h3 align="center">🗑️ Smart Dustbin using Arduino</h3><p align="center">
-  <img src="./assets/smart-dustbin.jpg" width="260" alt="Smart Dustbin using Arduino" />
-</p><p align="center">
-  <b>Arduino Uno · HC-SR04 · Servo · LCD</b>
-</p><p>
-Developed an automated smart dustbin using an <b>HC-SR04 ultrasonic sensor</b> for contactless lid operation.
-</p><p>
-The Arduino processes the sensor input and controls an <b>SG90 servo motor</b>, while a 16×2 LCD displays the system status.
-</p><p align="center">
-  <code>Arduino</code>
-  <code>Ultrasonic Sensor</code>
-  <code>Servo</code>
-  <code>Automation</code>
-</p></td><td width="50%" valign="top"><h3 align="center">💡 Automatic Fan & Light Control</h3><p align="center">
-  <b>Arduino · Sensors · PWM Control</b>
-</p><p>
-Designed an Arduino-based automation system for automatic <b>fan-speed and light control</b> using sensor inputs.
-</p><p>
-Implemented <b>PWM-based control</b> for practical automation and efficient system operation.
-</p><p align="center">
-  <code>Arduino</code>
-  <code>Sensors</code>
-  <code>PWM</code>
-  <code>Automation</code>
-</p></td></tr>
-</table>---
-
-🖼️ Project Documentation
-
-🗑️ Smart Dustbin — System Architecture
-
-<p align="center">
-  <img src="./assets/smart-dustbin-block-diagram.jpg" width="750" alt="Smart Dustbin Block Diagram" />
-</p><p align="center">
-  <b>Ultrasonic Sensor → Arduino Uno → Servo Motor → Automatic Lid</b>
-</p>---
-
-♿ App-Controlled Wheelchair — Circuit
-
-<p align="center">
-  <img src="./assets/app-controlled-wheelchair-circuit.jpg" width="750" alt="App Controlled Wheelchair Circuit Diagram" />
-</p>---
-
-🔬 CMOS Design — DRC & LVS Verification
-
-<p align="center">
-  <img src="./assets/cmos-drc-lvs-verification.jpg" width="850" alt="CMOS DRC and LVS Verification" />
-</p>---
-
-🧪 Technical Exposure
-
-<table>
-<tr><td align="center" width="25%">🔬
-
-VLSI Design
-
-Cadence Virtuoso
-CMOS Design
-Full-Custom Layout
-DRC / LVS
-
-</td><td align="center" width="25%">⚡
-
-Embedded Systems
-
-Arduino
-Embedded C
-Sensor Interfacing
-Motor Control
-
-</td><td align="center" width="25%">💻
-
-Programming
-
-C
-C++
-Java
-Verilog HDL
-
-</td><td align="center" width="25%">🔧
-
-Engineering Tools
-
-Keil
-MATLAB
-Cisco Packet Tracer
-Git / GitHub
-
-</td></tr>
-</table>---
-
-📜 Certifications & Learning
-
-<p>🏅 NPTEL — Cloud Computing
-
-<br>🏅 NPTEL — Advanced Computer Networks
-
-<br>🤖 Oracle AI Foundations Associate — 2025
-
-<br>🤖 Oracle Generative AI Professional — 2025
-
-<br>💻 Algo University — Qualified Stage 1 Tech Fellowship (ATF) — 2025
-
-<br>⚡ Embedded Systems & Product Design Workshops
-
-<br>🛡️ Cybersecurity Training & Hackathon Experience
-
-</p>---
-
-🎯 Areas of Interest
-
-<table>
-<tr><td align="center" width="25%">🔬 VLSI
-
-CMOS Design
-Cadence Virtuoso
-DRC / LVS
-Verilog HDL
-Digital IC Design
-
-</td><td align="center" width="25%">⚡ Embedded
-
-Embedded C
-Arduino Uno
-ESP32
-Sensor Interfacing
-PWM Control
-
-</td><td align="center" width="25%">💡 Electronics
-
-Digital Electronics
-Analog Electronics
-MOSFET
-BJT
-Op-Amp
-
-</td><td align="center" width="25%">💻 Programming
-
-C
-C++
-Java
-Data Structures
-Problem Solving
-
-</td></tr>
-</table>---
-
-🌱 Currently Learning
-
-<p align="center"><img src="https://img.shields.io/badge/🔬%20CMOS-VLSI%20Design-6A1B9A?style=for-the-badge" /><img src="https://img.shields.io/badge/⚡%20Embedded-Systems-2E7D32?style=for-the-badge" /><img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><img src="https://img.shields.io/badge/Verilog-HDL-8E24AA?style=for-the-badge" /></p>---
-
-🏆 Achievements & Leadership
-
-<table>
-<tr><td width="50%" valign="top">👥 Leadership
-
-🔹 Joint Secretary — BEC-IEEE | 2025
-
-🔹 Student Chairman — BEC-YRC | 2026
-
-🔹 Mentor — FAIL 2025
-
-🔹 Co-Mentor — FAIL 2024
-
-</td><td width="50%" valign="top">🏅 Activities
-
-🏆 Excellence Certificate — Cybersecurity Hackathon
-
-🤝 Volunteer — EvolveX
-
-🤝 Volunteer — NKSS Flagship Event
-
-🚀 Participation in technical and student-development activities
-
-</td></tr>
-</table>---
-
-🎓 Education
-
-🏫 Basaveshwar Engineering College, Bagalkot
-
-B.E. — Electronics & Communication Engineering
-
-📅 "2023 – Present"
-
-🎯 CGPA: 8.39 / 10.0
+🚀 Passionate about building practical **hardware and embedded systems projects**.
 
 ---
 
-📘 St. Anne's PU College, Vidyagiri, Bagalkot
+## 🧰 Tech Stack
 
-Pre-University Education — 83.5%
+### 💻 Programming
 
-📅 "2023"
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp" />
+
+<img src="https://img.shields.io/badge/Embedded%20C-283593?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+### ⚡ Electronics & Embedded
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-2E7D32?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ARM%20Microcontrollers-CC0000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Digital%20Electronics-1565C0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Analog%20Electronics-00838F?style=for-the-badge" />
+
+</p>
+
+### 📡 Communication & Computer Networks
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/UART-6A1B9A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SPI-8E24AA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/I2C-3949AB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Computer%20Networks-1565C0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/TCP%2FIP-Basics-3949AB?style=for-the-badge" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,linux" />
+
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge" />
+
+</p>
 
 ---
 
-📚 St. Anne's Convent High School, Vidyagiri, Bagalkot
+# 🚀 Featured Projects
 
-SSLC — 96.32%
+<table>
+<tr>
 
-📅 "2021"
+<td width="50%">
+
+### ♿ App-Controlled Wheelchair
+
+A Bluetooth-based wheelchair designed for convenient smartphone-based control.
+
+**Tech Stack**
+
+`Arduino Uno` `HC-05` `Motor Driver`  
+`Embedded C`
+
+🔗 **[View Project →](YOUR_WHEELCHAIR_REPOSITORY_LINK)**
+
+</td>
+
+<td width="50%">
+
+### 🗑️ Smart Dustbin
+
+An automated dustbin designed using Arduino and an ultrasonic sensor.
+
+**Tech Stack**
+
+`Arduino Uno` `Ultrasonic Sensor`  
+`Embedded C`
+
+🔗 **[View Project →](YOUR_SMART_DUSTBIN_REPOSITORY_LINK)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💡 Automatic Fan & Light Controller
+
+A sensor-based system for automatic fan speed and light control.
+
+**Focus**
+
+`Arduino` `Sensors`  
+`PWM` `Embedded Systems`
+
+🔗 **[View Project →](YOUR_FAN_LIGHT_REPOSITORY_LINK)**
+
+</td>
+
+<td width="50%">
+
+### 🔐 Password Gate Lock System
+
+An embedded security system designed for controlled access using password authentication.
+
+**Focus**
+
+`Embedded Systems`  
+`Digital Electronics`
+
+🔗 **[View Project →](YOUR_GATE_LOCK_REPOSITORY_LINK)**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-🌐 Languages
+# 🎯 Areas of Interest
 
-<p align="center">🇬🇧 <b>English</b>
-  •  
-🇮🇳 <b>Kannada</b>
-  •  
-🇮🇳 <b>Hindi</b>
+| 🔌 Embedded Systems | ⚡ Electronics | 💻 Programming |
+|:---:|:---:|:---:|
+| Microcontrollers | Digital Electronics | C / C++ |
+| ARM | Analog Electronics | Embedded C |
+| UART / SPI / I2C | Hardware Projects | Problem Solving |
+| 🌐 Computer Networks | TCP/IP | Networking |
 
-</p>---
+---
 
-📫 Connect With Me
-
-<p align="center"><a href="https://www.linkedin.com/in/vikas-menasagi-4ba074293">
-  <img src="https://img.shields.io/badge/LinkedIn-Vikas%20V%20Menasagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:vikasmenasagi01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-vikasmenasagi01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a></p>---
+## 📫 Connect With Me
 
 <p align="center">
-  <b>🔬 Learn &nbsp; • &nbsp; ⚙️ Build &nbsp; • &nbsp; 🧪 Verify &nbsp; • &nbsp; 🚀 Improve</b>
-</p><p align="center">
-  <i>Thanks for visiting my GitHub profile!</i>
+
+<a href="https://github.com/vikasmenasagi01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikas-menasagi-4ba074293">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vikasmenasagi01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⚡ <b>Learn • Build • Innovate</b> ⚡
 </p>
