@@ -121,7 +121,7 @@ A Bluetooth-based wheelchair designed for convenient smartphone-based control.
 `Arduino Uno` `HC-05` `Motor Driver`  
 `Embedded C`
 
-🔗 **[View Project →](YOUR_WHEELCHAIR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/vikasmenasagi01/app-controlled-wheel-chair)**
 
 </td>
 
