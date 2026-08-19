@@ -179,6 +179,16 @@ An embedded security system designed for controlled access using password authen
 
 ---
 
+# 🏅 Certifications
+
+- ☁️ **NPTEL – Cloud Computing**
+- 🌐 **NPTEL – Advanced Computer Networks**
+- 🤖 **Oracle AI Foundations Associate** | 2025
+- 🧠 **Oracle Generative AI Professional** | 2025
+- 🏆 **Algo University – Qualified Stage 1 Tech Fellowship (ATF)** | 2025
+
+---
+
 # 🎯 Areas of Interest
 
 | 🔌 Embedded Systems | ⚡ Electronics | 💻 Programming |
