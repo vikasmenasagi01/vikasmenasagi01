@@ -155,7 +155,7 @@ A sensor-based system for automatic fan speed and light control.
 `Arduino` `Sensors`  
 `PWM` `Embedded Systems`
 
-🔗 **[View Project →](YOUR_FAN_LIGHT_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/vikasmenasagi01/automatic-fan-light-control)**
 
 </td>
 
