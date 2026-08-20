@@ -170,7 +170,7 @@ An embedded security system designed for controlled access using password authen
 `Embedded Systems`  
 `Digital Electronics`
 
-🔗 **[View Project →](YOUR_GATE_LOCK_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/vikasmenasagi01/password-based-gatelock-system)**
 
 </td>
 
