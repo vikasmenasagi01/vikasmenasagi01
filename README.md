@@ -136,7 +136,7 @@ An automated dustbin designed using Arduino and an ultrasonic sensor.
 `Arduino Uno` `Ultrasonic Sensor`  
 `Embedded C`
 
-🔗 **[View Project →](YOUR_SMART_DUSTBIN_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/vikasmenasagi01/Smart-dustbin)**
 
 </td>
 
