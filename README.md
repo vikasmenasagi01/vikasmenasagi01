@@ -146,7 +146,7 @@ An automated dustbin designed using Arduino and an ultrasonic sensor.
 
 <td width="50%">
 
-### 💡 Automatic Fan & Light Controller
+### 💡 Automatic Fan Speed & Light Intensity Controlling System
 
 A sensor-based system for automatic fan speed and light control.
 
