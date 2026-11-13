@@ -187,7 +187,7 @@ ESP32-based surveillance prototype featuring object detection, servo tracking, c
 
 `Embedded Systems` `IoT` `Digital Electronics`
 
-🔗 **[View Project →](YOUR_GITHUB_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/vikasmenasagi01/iot-radar-surveillance-system)**
 
 </td>
 </tr>
