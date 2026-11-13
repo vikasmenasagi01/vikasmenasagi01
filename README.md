@@ -175,6 +175,22 @@ An embedded security system designed for controlled access using password authen
 </td>
 
 </tr>
+
+<tr>
+<td width="50%">
+
+### 📡 IoT Radar Surveillance & Target Tracking
+
+ESP32-based surveillance prototype featuring object detection, servo tracking, camera monitoring and cloud connectivity.
+
+**Focus**
+
+`Embedded Systems` `IoT` `Digital Electronics`
+
+🔗 **[View Project →](YOUR_GITHUB_REPOSITORY_LINK)**
+
+</td>
+</tr>
 </table>
 
 ---
